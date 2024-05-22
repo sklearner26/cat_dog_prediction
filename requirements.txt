@@ -2,6 +2,7 @@ matplotlib
 streamlit
 numpy==1.18.5
 tensorflow
+keras
 fastapi
 opencv-python
 pickle5
