@@ -1,10 +1,9 @@
 matplotlib
 streamlit
 numpy==1.18.5
-keras
 fastapi
 opencv-python
-pickle5
+pickle
 pydantic
 scikit-learn
 streamlit_option_menu
