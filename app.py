@@ -3,11 +3,9 @@ import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
 import pickle
-
-from keras.models import load_model
-model = load_model("cat_model1.pkl")
-
+import joblib
 #model=pickle.load(open("cat_model1.pkl",'rb'))
+model=joblib.load(open("cat_model1.pkl",'rb'))
 st.title(":red[CAT Vs DOG PREDICTION]")
 
 file=st.file_uploader("Upload a image for prediction",type=['jpg','png','jpeg'])
