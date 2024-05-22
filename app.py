@@ -3,7 +3,6 @@ import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
 import pickle
-st.set_option('deprecation.showfileUploaderEncoding', False)
 model=pickle.load(open("cat_model1.pkl",'rb'))
 st.title(":red[CAT Vs DOG PREDICTION]")
 
