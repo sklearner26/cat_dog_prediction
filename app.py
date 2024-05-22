@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pickle
 
 from keras.models import load_model
-model = load_model(cat_model1.pkl)
+model = load_model("cat_model1.pkl")
 
 #model=pickle.load(open("cat_model1.pkl",'rb'))
 st.title(":red[CAT Vs DOG PREDICTION]")
