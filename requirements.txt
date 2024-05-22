@@ -2,7 +2,7 @@ matplotlib
 streamlit
 fastapi
 opencv-python
-pickle
+pickle5
 pydantic
 scikit-learn
 streamlit_option_menu
