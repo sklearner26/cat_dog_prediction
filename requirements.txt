@@ -1,6 +1,5 @@
 matplotlib
 streamlit
-numpy==1.18.5
 fastapi
 opencv-python
 pickle
