@@ -1,0 +1,9 @@
+
+streamlit
+matplotlib
+fastapi
+opencv-python
+pickle5
+pydantic
+scikit-learn
+streamlit_option_menu
