@@ -1,6 +1,6 @@
 matplotlib
 tensorflow
-keras
+keras==2.13.1
 streamlit
 fastapi
 opencv-python
