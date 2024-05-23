@@ -4,7 +4,7 @@ keras==2.13.1
 streamlit
 fastapi
 opencv-python
-pickle5
+pickle-mixin==1.0.2
 pydantic
 scikit-learn
 streamlit_option_menu
